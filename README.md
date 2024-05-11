@@ -1,6 +1,6 @@
-CID_315_Athena_Commando_M_TeriyakiFish, 1500
-CID_597_Athena_Commando_M_Freak, 1500
-EID_SwimDance, 500
+CID_606_Athena_Commando_F_JetSki, 1500
+Pickaxe_ID_312_JetSkiMale1H, 500
+EID_ArtGiant, 500
 na
 na
 na
