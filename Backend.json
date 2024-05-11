@@ -1,15 +1,15 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaGlider:Glider_ID_055_StreetRacerBlack"],
+    "itemGrants": ["AthenaGlider:Glider_ID_194_Agent"],
     "price": 500
   },
   "daily2": {
-    "itemGrants": ["AthenaItemWrap:Wrap_195_StreetRat"],
+    "itemGrants": ["AthenaItemWrap:Wrap_169_JetSki"],
     "price": 300
   },
   "daily3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_193_HotDog"],
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_312_JetSkiMale1H"],
     "price": 800
   },
   "daily4": {
@@ -21,19 +21,19 @@
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaCharacter:CID_614_Athena_Commando_M_MissingLink"],
+    "itemGrants": ["AthenaCharacter:CID_606_Athena_Commando_F_JetSki"],
     "price": 500
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_315_Athena_Commando_M_TeriyakiFish"],
+    "itemGrants": ["AthenaCharacter:CID_609_Athena_Commando_M_Submariner"],
     "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaDance:EID_SwimDance"],
+    "itemGrants": ["AthenaDance:EID_ArtGiant"],
     "price": 500
   },
   "featured3": {
-    "itemGrants": ["AthenaCharacter:CID_597_Athena_Commando_M_Freak"],
+    "itemGrants": ["AthenaCharacter:CID_300_Athena_Commando_F_Angel"],
     "price": 2000
   }
 }
